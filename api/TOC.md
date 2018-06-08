@@ -1,8 +1,8 @@
-# [Office VBA Reference](index.md)
-## [Access VBA](Access.md)
+# [Office VBA Reference](../overview/index.md)
+## [Access](../overview/Access.md)
 ### Concepts
 #### Settings
-##### [Set References to Type Libraries](set-references-to-type-libraries.md)
+##### [Set References to Type Libraries](../access/Concepts/Settings/set-references-to-type-libraries.md)
 ##### [Set a Reference to a Visual Basic Project in Another Microsoft Access Database or Project](set-a-reference-to-a-visual-basic-project-in-another-microsoft-access-database-o.md)
 ##### [Set Options from Visual Basic](set-options-from-visual-basic.md)
 ##### [Set Properties by Using Visual Basic](set-properties-by-using-visual-basic.md)
